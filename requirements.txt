@@ -1,0 +1,11 @@
+﻿langchain-openai
+langchain-community
+langchain-core
+langgraph
+langchain-tavily
+tavily-python
+openai
+python-pptx
+pillow
+gradio
+chromadb
